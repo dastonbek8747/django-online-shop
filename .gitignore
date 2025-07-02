@@ -1,0 +1,8 @@
+# Maxfiy fayllar
+.env
+*.key
+*.pem
+config.json
+credentials.json
+secrets.ini
+*.env*
