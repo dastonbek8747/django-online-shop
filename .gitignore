@@ -6,3 +6,6 @@ config.json
 credentials.json
 secrets.ini
 *.env*
+__pycache__/
+*.py[cod]
+.idea/
