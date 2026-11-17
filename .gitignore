@@ -6,3 +6,19 @@ config.json
 credentials.json
 secrets.ini
 *.env*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+# Environment
+.env.*
+!.env.example
+# IDE
+.idea/
+.vscode/
+# OS
+.DS_Store
