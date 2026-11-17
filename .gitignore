@@ -22,3 +22,6 @@ env/
 .vscode/
 # OS
 .DS_Store
+
+# Local database
+*.sqlite3
